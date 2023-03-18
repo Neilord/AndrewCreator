@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @Neilord, Andrew Shostak 01.10.2005 Russian.
-- 👀 I’m interested in programming, riding a bicycle, mountain skiing.
-- 🌱 I’m currently learning & working in Zoho CRM (Business programming).
-- 💞️ I’m looking to collaborate on IDK. If you want to collaborate, just reach me and we will discuss.
-- 📫 How to reach me: email = arshostak@gmail.com | telegram = @arshostak.
+
