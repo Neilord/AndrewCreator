@@ -1,1 +1,12 @@
-[![Neilord's GitHub Stats](https://github-readme-stats.vercel.app/api?username=neilord&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center"> 
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=neilord&rank_icon=percentile&show=reviews&show_icons=true&theme=github_dark"
+    alt="My Github stats"
+    height="220"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=neilord&layout=donut&theme=github_dark"
+    alt="My Language stats"
+    height="220"
+  />
+</div>
